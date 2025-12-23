@@ -1,8 +1,8 @@
 # mejirojic
-日本女子大学の文化祭で制作したゲーム「めじろじっく」のソースコードと最終版
+日本女子大学の文化祭で制作したゲーム「めじろじっく」の最終版とソースコード
 
+- WebBuild/inedx.html: 最終版のゲームをプレイできるページ
 - Scripts: ソースコード一覧
-- inedx.html: 完成版のゲームをプレイできるページ
 
 こちらのURLからプレイできます  
 https://odm135.github.io/mejirojic/WebBuild/index.html
